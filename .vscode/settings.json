@@ -1,0 +1,37 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "launch":{
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "app_loja",
+                "request": "launch",
+                "type": "dart",
+                "program": "${workspaceFolder}/lib/main.dart",
+            }
+
+        ],
+        "compounds": []
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#9150ee",
+        "activityBar.background": "#9150ee",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#74360b",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#9150ee",
+        "statusBar.background": "#7421ea",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#9150ee",
+        "statusBarItem.remoteBackground": "#7421ea",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#7421ea",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#7421ea99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#7421ea"
+   
+}
